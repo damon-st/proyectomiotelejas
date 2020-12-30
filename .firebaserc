@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "telejaswebapp: {
+      "hosting": {
+        "evelyn": [
+          "telejaswebapp"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "telejaswebapp"
+  }
+}
